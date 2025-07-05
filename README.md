@@ -5,18 +5,7 @@ Includes clear explanations, real examples, and visual-friendly documentation �
 
 ---
 
-## 📚 Topics Covered
-
-- ✅ What is an Array?
-- ✅ Array elements and indexing
-- ✅ How to get and set elements by index
-- ✅ Sparse arrays explained
-- ✅ Must-know Array methods:
-  - `push()`, `pop()`, `shift()`, `unshift()`
-- ✅ Practice examples with comments
-- 🧠 All content explained in **Bangla** with easy syntax
-
----
+## 📚 Topics Covered in script.js
 
 | 🔢 Line No | 🧠 Topic Title                                       |
 | ---------: | ---------------------------------------------------- |
@@ -34,10 +23,23 @@ Includes clear explanations, real examples, and visual-friendly documentation �
 |         68 | Sparse Array output explanation                      |
 |         73 | Extra Note: Empty slots behave differently           |
 |         78 | 📘 Array Methods Section Start                       |
-|         80 | push() method                                        |
-|         82 | pop() method                                         |
-|         84 | shift() method                                       |
-|         86 | unshift() method                                     |
+|         80 | `push()` method                                      |
+|         82 | `pop()` method                                       |
+|         84 | `shift()` method                                     |
+|         86 | `unshift()` method                                   |
+
+## 📝 Practice Problems in practice.js
+
+| 🔢 Line No | 🧠 Problem / Topic Title                           |
+| ---------: | -------------------------------------------------- |
+|          1 | Taking user input and storing values in an array   |
+|         20 | Calculating sum of all elements in an array        |
+|         33 | Finding the maximum element in an array            |
+|         44 | Finding the minimum element in an array            |
+|         55 | Finding the first and second maximum elements      |
+|         74 | Reversing an array using an extra variable         |
+|         87 | Reversing an array without using an extra variable |
+|        105 | Moving all zeros to the left side of an array      |
 
 ---
 
